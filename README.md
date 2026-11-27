@@ -33,7 +33,3 @@
 > Progress Demo │ December 3rd
 >
 > 80% of Project completed │ December 4th
-
-
-
-
