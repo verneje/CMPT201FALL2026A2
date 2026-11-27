@@ -16,9 +16,9 @@
 
 ## Who Does What
 ### TASK │ OWNER
-> readInventory() │
+> readInventory() │ Cerise Camama
 >
-> packInventory() │
+> packInventory() │ Vernadeth Eje
 >
 > Makefile │ Vernadeth & Cerise
 >
