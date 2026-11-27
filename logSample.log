@@ -1,0 +1,16 @@
+<datetime>|<event>|<item>|<quantity>|<note>
+11/11/26 22:14:07|OUT|SKU2003|5|sale
+11/11/26 22:14:15|OUT|SKU2003|5|sale
+11/11/26 22:14:22|OUT|SKU2003|5|sale
+11/11/26 22:14:02|OUT|SKU2003|3|sale
+11/11/26 21:58:21|OUT*|SKU1008|4|sale
+11/11/26 21:47:15|ADJ|SKU1011|-2|shrinkage
+08/11/26 13:52:33|IN|SKU2019|48|delivery from warehouse
+08/11/26 13:32:08|OUT|SKU1014|2|online order
+08/11/26 13:11:47|OUT|SKU2005|3|sale
+07/11/26 22:12:33|OUT|SKU1012|3|sale
+07/11/26 21:52:11|OUT|SKU1012|2|sale
+07/11/26 21:32:44|ADJ*|SKU2018|-3|damaged in transit
+07/11/26 21:12:22|IN|SKU1004|52|delivery from warehouse
+07/11/26 20:52:11|OUT|SKU2002|4|sale
+07/11/26 17:32:47|ALERT|SKU1013|0|restock needed
